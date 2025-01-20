@@ -1,6 +1,6 @@
 ## Olá eu sou o Lucas Caetano
 
-- 🔭 Hoje trabalho com Analise de Dados
+- 🔭 Hoje trabalho com Analise de Dados / SQL
 - 🌱 Estudando Python 
 - 💬 Contate-me no email: xlcspx@gmail.com
 - 😄 Pronouns: ele/dele
