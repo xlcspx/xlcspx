@@ -1,6 +1,6 @@
 ## Olá eu sou o Lucas Caetano
 
-Cursando Ciências da Computação (7º/9º semestre) na Universidade Federal da Bahia, Apaixonado por Tecnologia, e coisas novas.
+Cursando Ciências da Computação (5º/7º semestre) na Universidade Federal da Bahia, Apaixonado por Tecnologia, e coisas novas.
 
 - 🔭 Hoje trabalho com SQL 
 
